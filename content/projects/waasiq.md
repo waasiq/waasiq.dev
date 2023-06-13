@@ -1,8 +1,8 @@
 ---
-date: '2022-05-01'
+date: '2023-13-06'
 title: 'GitHub Readme Profile'
-github: 'https://github.com/SABERGLOW/SABERGLOW'
-external: 'https://github.com/SABERGLOW'
+github: 'https://github.com/waasiq/waasiq'
+external: 'https://github.com/waasiq'
 tech:
   - GitHub Markdown
   - Readme Profile

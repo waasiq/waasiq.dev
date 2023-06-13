@@ -129,13 +129,16 @@ const About = () => {
     'JavaScript (ES6+)',
     'TypeScript',
     'HTML & CSS',
-    'React',
+    'React.js',
     'Next.js',
-    'Angular',
+    'Node.js',
+    'Express.js',
+    'ASP.NET',
+    'Python',
+    'Flask',
     'Azure',
     'Firebase',
     'Git',
-    'Kotlin',
     'Java',
     'C/C++',
   ];
@@ -148,39 +151,34 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello there! My name is Wali and I like to code beautiful and functional things for
-              the web. In the evenings, you can find me around the streets of Budapest, or alongside
-              the Danube river,
-              <a href="https://www.instagram.com/sardarwaliullah/">behind the lens</a>,{' '}
-              photographing the city and its life through a unique perspective. I also love music,
-              and building computers.
+              Hello there! My name is Waasiq and I like to code beautiful and functional things for
+              the web. In the evenings, you can find me playing Dota or going around on adventures. 
+              I love swimming and bicycling in free time.
             </p>
             <p>
-              My interest in Computers and Robotics started back in 2015 when I built and programmed
-              my first modular robot using RobotC and a Lego NXT 2.0 Kit. The robots that I built
-              and programmed as a novice won several of the national competitions that I
-              participated in, and it only ignited my passion for learning new programming languages
-              and technologies even further.
+              My interest in Computers started during my childhood when I started playing games
+              like Counter Strike, Need for Speed, and Call of duty. I was always fascinated by the
+              fact that I could control the actions of a character in a virtual world. Sometimes, I had 
+              to figure out how to install a game, or how to fix a bug during installation, and that's how I started learning
+              about computer softwares. I was always curious about how things worked, and I would often take apart
+              my toys to see what was inside. This passion continued further and I decided to pursue a career
+              in Computer Engineering.
             </p>
 
             <p>
-              Fast-forward to today, I have completed my bachelors in Computer Science Engineering
-              from Budapest University of Technology and Economics,{' '}
-              <a href="https://www.bme.hu/?language=en"> BME </a>, class of 2023. I’ve had the
+              Fast-forward to today, I have completed my bachelors in Computer Engineering
+              from Sakarya University,{' '}
+              <a href="https://www.sakarya.edu.tr/"> SAU </a>, class of 2023. I’ve had the
               privilege of working at{' '}
-              <a href="https://www.mckinsey.com/">world’s leading consulting firm</a>,{' '}
-              <a href="https://corporate.exxonmobil.com/">one of the Fortune 500s</a>, teaching Java
-              and Python at an{' '}
-              <a href="https://www.hkcodingcamp.com/">online coding education start-up</a>, and
-              mentoring foreign scholarship students for{' '}
-              <a href="https://shmentor.hu/"> Hungarian Union of Students</a>.
+              <a href="https://www.mmmgroup.com/en">MMM group, </a>,{' '}
+              <a href="https://www.primeware.com.tr/">Primware</a>, and{' '}
+              <a href="https://trapmine.com/">Trapmine</a> as as full stack software engineer.
             </p>
 
             <p>
-              My main focus these days is driving and innovating the digital transforation
-              of our clients by leveraging the latest technologies and harnessing the power of data
+              My main focus these days is developing a large scale full stack project using NextJS and ASP.NET
               at{' '}
-              <a href="https://www.mckinsey.com/capabilities/mckinsey-digital/how-we-help-clients">McKinsey Digital</a>.
+              <a href="https://www.primeware.com.tr/">Primeware</a>.
             </p>
 
             <p>Here are a few technologies I’ve been working with/learning about recently:</p>
@@ -195,7 +193,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me-2.jpg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}

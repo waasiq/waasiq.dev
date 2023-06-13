@@ -1,9 +1,9 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: '/waliullah.dev',
+  pathPrefix: '/waasiq.dev',
   siteMetadata: {
-    title: 'Wali Ullah',
+    title: 'Waasiq Masood',
     description:
       'Wali Ullah a proactive & enthusiastic computer engineer seeking challenging projects.',
     siteUrl: 'https://saberglow.github.io/waliullah.dev/', // No trailing slash allowed!
@@ -112,8 +112,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'WaliUllah',
-        short_name: 'WaliuUllah',
+        name: 'WaasiqMasood',
+        short_name: 'WaasiqMasood',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

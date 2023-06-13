@@ -59,33 +59,33 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Wali Ullah.</h2>;
-  const three = <h3 className="big-heading">I turn code into beautiful functional things.</h3>;
+  const two = <h2 className="big-heading">Waasiq Masood.</h2>;
+  const three = <h3 className="big-heading">I transform code into beautiful functional things.</h3>;
   const four = (
     <>
       <p>
-        I'm a proactive &amp; enthusiastic computer engineer who's seeking challenging projects.
+        I am a passionate and driven computer engineer who is seeking challenging projects.
         I have recently started my professional career at{' '}
-        <a href="https://www.mckinsey.com/capabilities/mckinsey-digital/how-we-help-clients" target="_blank" rel="noreferrer">
-          McKinsey Digital
+        <a href="https://www.primeware.com.tr/" target="_blank" rel="noreferrer">
+          Primeware
         </a>{' '}
         as a Fellow Engineer after graduating from{' '}
-        <a href="https://www.bme.hu/?language=en" target="_blank" rel="noreferrer">
-          BME
+        <a href="https://www.sakarya.edu.tr/en/" target="_blank" rel="noreferrer">
+          SAU
         </a>{' '}
-        where I did my bachelors in Computer Science Engineering.
-        Previously, I was a Developer Intern at{' '}
-        <a href="https://corporate.exxonmobil.com/locations/hungary" target="_blank" rel="noreferrer">
-          Exxonmobil
+        where I did my bachelors in Computer Enginnering.
+        Previously, I was a MERN stack developer intern at{' '}
+        <a href="https://www.mmmgroup.com/en" target="_blank" rel="noreferrer">
+          MMM Group
         </a>{' '}
-        where I did Front-End, DevOps, and QA.
+        where I worked on an ERP application.
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="mailto:wali6985@gmail.com?subject=Hello%20there&body=Hi%2C%20Wali%0A"
+      href="mailto:waasiqmasood@gmail.com?subject=Hello%20there&body=Hi%2C%20Wali%0A"
       target="_blank"
       rel="noreferrer"
     >

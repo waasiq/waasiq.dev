@@ -152,7 +152,7 @@ const About = () => {
           <div>
             <p>
               Hello there! My name is Waasiq and I like to code beautiful and functional things for
-              the web. In the evenings, you can find me playing Dota or going around on adventures. 
+              the web. In the evenings, you can find me playing video games or going around on adventures. 
               I love swimming and bicycling in free time.
             </p>
             <p>
@@ -172,7 +172,7 @@ const About = () => {
               privilege of working at{' '}
               <a href="https://www.mmmgroup.com/en">MMM group, </a>,{' '}
               <a href="https://www.primeware.com.tr/">Primware</a>, and{' '}
-              <a href="https://trapmine.com/">Trapmine</a> as as full stack software engineer.
+              <a href="https://trapmine.com/">Trapmine</a> as as full stack software engineer. 
             </p>
 
             <p>

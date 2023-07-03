@@ -139,8 +139,8 @@ const About = () => {
     'Azure',
     'Firebase',
     'Git',
-    'Java',
     'C/C++',
+    'C#'
   ];
 
   return (

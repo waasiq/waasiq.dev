@@ -5,10 +5,10 @@ module.exports = {
   siteMetadata: {
     title: 'Waasiq Masood',
     description:
-      'Wali Ullah a proactive & enthusiastic computer engineer seeking challenging projects.',
-    siteUrl: 'https://saberglow.github.io/waliullah.dev/', // No trailing slash allowed!
+      'Waasiq Masood a proactive & enthusiastic computer engineer seeking challenging projects.',
+    siteUrl: 'https://github.com/waasiq', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@SardarWaliUllah',
+    twitterUsername: '',
   },
   plugins: [
     `gatsby-plugin-sharp`,

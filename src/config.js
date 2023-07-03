@@ -1,28 +1,20 @@
 module.exports = {
-  email: 'wali6985@gmail.com',
+  email: 'waasiqmasood@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/SABERGLOW',
+      url: 'https://github.com/waasiq',
     },
 
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/sardarwaliullah/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/saberglow',
+      url: 'https://www.linkedin.com/in/iwaasiq/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/sardarwaliullah/',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/SardarWaliUllah',
-    },
+      url: 'https://www.instagram.com/iwaasiq/',
+    }
   ],
 
   navLinks: [

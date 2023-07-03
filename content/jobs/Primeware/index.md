@@ -1,0 +1,11 @@
+---
+date: '2023-13-06'
+title: 'Full Stack Engineer'
+company: 'Primeware'
+location: 'Sakarya, Turkey'
+range: 'April 2023 - Present'
+url: 'https://www.primeware.com.tr/'
+---
+
+- Collaborating with a team of 6 engineers on the development and maintenance of desktop and web-based industrial design software.
+- Involved in debugging complex bugs and fixing them.

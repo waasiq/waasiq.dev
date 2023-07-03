@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://app.netlify.com/sites/waliullah/deploys" target="_blank">
+  <a href="https://app.netlify.com/sites/waasiqdev/deploys" target="_blank">
     <img src="https://api.netlify.com/api/v1/badges/a46a9f38-f3a7-43db-b197-ced2afb4f4c1/deploy-status" alt="Netlify Status" />
   </a>
 </p>

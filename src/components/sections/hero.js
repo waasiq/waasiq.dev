@@ -65,15 +65,16 @@ const Hero = () => {
     <>
       <p>
         I am a passionate and driven computer engineer who is seeking challenging projects.
-        I have recently graduated as a Computer Engineer from{' '}
-        <a href="https://www.sakarya.edu.tr/en/" target="_blank" rel="noreferrer">
-          SAU
+        I am a Jr. Full Stack Developer at {' '}
+        <a href="https://ob2.ai/" target="_blank" rel="noreferrer">
+          OB2.AI
         </a>{' '}
-        where I did my bachelors. I am passionate about builiding visually appealing website with clean back-end architecture.
+        . I am passionate about builiding visually appealing website with clean back-end architecture.
         I also have a keen interest in Machine Learning and Data Science.
       </p>
     </>
   );
+
   const five = (
     <a
       className="email-link"

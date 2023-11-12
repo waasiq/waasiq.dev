@@ -133,14 +133,14 @@ const About = () => {
     'Next.js',
     'Node.js',
     'Express.js',
+    'C#',
     'ASP.NET',
     'Python',
     'Flask',
-    'Azure',
+    'AWS',
     'Firebase',
     'Git',
-    'C/C++',
-    'C#'
+    'C/C++'
   ];
 
   return (
@@ -156,32 +156,29 @@ const About = () => {
               I love swimming and bicycling in free time.
             </p>
             <p>
-              My interest in Computers started during my childhood when I started playing games
-              like Counter Strike, Need for Speed, and Call of duty. I was always fascinated by the
-              fact that I could control the actions of a character in a virtual world. Sometimes, I had 
-              to figure out how to install a game, or how to fix a bug during installation, and that's how I started learning
-              about computer softwares. I was always curious about how things worked, and I would often take apart
-              my toys to see what was inside. This passion continued further and I decided to pursue a career
-              in Computer Engineering.
+               My fascination with computers began in my childhood when I first delved into games like Counter-Strike. The ability to control virtual characters in a digital world always captivated me. 
+               Whenever I encountered installation challenges or bugs, I eagerly explored solutions, sparking my initial interest in software and problem-solving. My innate curiosity led me to disassemble toys to unravel their inner workings. 
+               This passion eventually led me to pursue a career in Computer Engineering.
             </p>
 
             <p>
               Fast-forward to today, I have completed my bachelors in Computer Engineering
               from Sakarya University,{' '}
-              <a href="https://www.sakarya.edu.tr/"> SAU </a>, class of 2023. I’ve had the
+              <a href="https://www.sakarya.edu.tr/"> SAU </a>, class of 2023. I{"'"}ve had the
               privilege of working at{' '}
+              <a href="https://www.ob2.ai">OB2.AI</a>, {' '}
               <a href="https://www.mmmgroup.com/en">MMM group, </a>,{' '}
-              <a href="https://www.primeware.com.tr/">Primware</a>, and{' '}
-              <a href="https://trapmine.com/">Trapmine</a> as as full stack software engineer. 
+              <a href="https://www.primeware.com.tr/">Primeware</a>, and{' '}
+              <a href="https://trapmine.com/">Trapmine</a>. 
             </p>
 
             <p>
-              My main focus these days is developing a large scale full stack project using NextJS and ASP.NET
-              at{' '}
-              <a href="https://www.primeware.com.tr/">Primeware</a>.
+              My main focus these days is developing a full-stack web application using Next.js at
+              {'  '}
+              <a href="https://www.ob2.ai/">  OB2.AI</a>.
             </p>
 
-            <p>Here are a few technologies I’ve been working with/learning about recently:</p>
+            <p>Here are a few technologies and tools I{"'"}ve been working with/learning about recently:</p>
           </div>
 
           <ul className="skills-list">

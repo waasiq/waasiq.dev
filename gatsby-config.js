@@ -23,7 +23,6 @@ module.exports = {
       options: {
         plugins: [
           {
-            // https://www.gatsbyjs.org/packages/gatsby-remark-external-links
             resolve: 'gatsby-remark-external-links',
             options: {
               target: '_blank',
@@ -97,8 +96,6 @@ module.exports = {
                   },
                 },
               ],
-              // Customize the prompt used in shell output
-              // Values below are default
               prompt: {
                 user: 'root',
                 host: 'localhost',
@@ -136,13 +133,6 @@ module.exports = {
         path: `${__dirname}/content/`,
       },
     },
-    // {
-    //   resolve: `gatsby-source-filesystem`,
-    //   options: {
-    //     name: `posts`,
-    //     path: `${__dirname}/content/posts`,
-    //   },
-    // },
     {
       resolve: `gatsby-source-filesystem`,
       options: {

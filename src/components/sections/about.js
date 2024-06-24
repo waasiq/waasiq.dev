@@ -126,19 +126,19 @@ const About = () => {
   }, []);
 
   const skills = [
-    'JavaScript (ES6+)',
+    'JavaScript',
     'TypeScript',
     'HTML & CSS',
     'React.js',
     'Next.js',
     'Node.js',
     'Express.js',
-    'C#',
-    'ASP.NET',
+    'Golang',
     'Python',
     'Flask',
-    'AWS',
+    'AWS EC2, Bedrock, S3',
     'Firebase',
+    'Netlify',
     'Git',
     'C/C++'
   ];
@@ -151,29 +151,26 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello there! My name is Waasiq and I like to code beautiful and functional things for
-              the web. In the evenings, you can find me playing video games or going around on adventures. 
+              Hello there! My name is Waasiq and I like to code beautiful and functional application.
               I love swimming and bicycling in free time.
             </p>
             <p>
                My fascination with computers began in my childhood when I first delved into games like Counter-Strike. The ability to control virtual characters in a digital world always captivated me. 
                Whenever I encountered installation challenges or bugs, I eagerly explored solutions, sparking my initial interest in software and problem-solving. My innate curiosity led me to disassemble toys to unravel their inner workings. 
-               This passion eventually led me to pursue a career in Computer Engineering.
+               This passion eventually led me to pursue a career in software engineering. 
             </p>
 
             <p>
-              Fast-forward to today, I have completed my bachelors in Computer Engineering
-              from Sakarya University,{' '}
-              <a href="https://www.sakarya.edu.tr/"> SAU </a>, class of 2023. I{"'"}ve had the
+              I am currently pursuing my masters in <a href="https://uni-freiburg.de/en/">University of Freiburg, Germany</a> {' '}
+              and always in a lookout for great new oppurtunities. I{"'"}ve had the
               privilege of working at{' '}
               <a href="https://www.ob2.ai">OB2.AI</a>, {' '}
               <a href="https://www.mmmgroup.com/en">MMM group, </a>,{' '}
-              <a href="https://www.primeware.com.tr/">Primeware</a>, and{' '}
               <a href="https://trapmine.com/">Trapmine</a>. 
             </p>
 
             <p>
-              My main focus these days is developing a full-stack web application using Next.js at
+              My main focus these days is working on a micro-service backend application using Golang and integrating Amazon Bedrock at
               {'  '}
               <a href="https://www.ob2.ai/">  OB2.AI</a>.
             </p>

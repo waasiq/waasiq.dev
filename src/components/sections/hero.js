@@ -60,17 +60,19 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Waasiq Masood.</h2>;
-  const three = <h3 className="big-heading">I transform code into beautiful functional things.</h3>;
+  const three = <h3 className="big-heading">I transform code into beautiful functional applications.</h3>;
   const four = (
     <>
       <p>
-        I am a passionate and driven computer engineer who is seeking challenging projects.
-        I am a Jr. Full Stack Developer at {' '}
+        I am a passionate and driven software engineer who is seeking challenging projects.
+        I am a Full Stack Developer at {' '}
         <a href="https://ob2.ai/" target="_blank" rel="noreferrer">
           OB2.AI
+        </a>{' '} and a Computer Science (AI Specialization) Master student at {' '}
+        <a href="https://uni-freiburg.de/" target="_blank" rel="noreferrer">
+          University of Freiburg
         </a>{' '}
         . I am passionate about builiding visually appealing website with clean back-end architecture.
-        I also have a keen interest in Machine Learning and Data Science.
       </p>
     </>
   );

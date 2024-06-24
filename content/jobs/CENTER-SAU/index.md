@@ -4,6 +4,7 @@ title: 'Machine Learning Intern'
 company: 'CENTER SAU'
 location: 'Sakarya, Turkey'
 range: 'January 2022 - February 2022'
+url: https://center.sakarya.edu.tr/EN/index.html
 ---
 
 - Successfully implemented machine learning algorithms to detect water anomalies, significantly enhancing the water quality testing process.
